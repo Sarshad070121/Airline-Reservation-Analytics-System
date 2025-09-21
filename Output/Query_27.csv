@@ -1,0 +1,70 @@
+flight_id,airline,status,flight_rank
+98,"Allen Group",Delayed,1
+162,"Allen, Reyes and Chase",Delayed,1
+37,Alvarado-Martinez,Delayed,1
+112,"Andrews Group",Delayed,1
+144,"Booth, Murray and Brown",Delayed,1
+126,"Bradshaw Ltd",Delayed,1
+171,Brennan-Johnson,Delayed,1
+45,"Cardenas and Sons",Delayed,1
+141,Cervantes-Pierce,Delayed,1
+99,"Chang, Vaughn and Brewer",Delayed,1
+83,David-Gonzalez,Delayed,1
+173,"Davis, Good and Hodges",Delayed,1
+71,"Day and Sons",Delayed,1
+43,"Dixon Ltd",Delayed,1
+142,"Edwards LLC",Delayed,1
+163,"Flores Group",Delayed,1
+95,"Freeman LLC",Delayed,1
+132,"George Group",Delayed,1
+32,Graham-Joyce,Delayed,1
+19,"Hancock and Sons",Delayed,1
+146,"Harris PLC",Delayed,1
+18,"Henson, Russell and Oliver",Delayed,1
+15,"Hernandez, Anderson and Parker",Delayed,1
+128,"Hernandez, Baker and Thomas",Delayed,1
+134,"Huff, Johnston and Sampson",Delayed,1
+164,Hughes-Alvarado,Delayed,1
+80,Jackson-Lawson,Delayed,1
+170,"James, Stewart and Higgins",Delayed,1
+152,"Jimenez Ltd",Delayed,1
+82,"Johnson, Collins and Byrd",Delayed,1
+93,Keith-Sanchez,Delayed,1
+26,"Keller Group",Delayed,1
+102,Kennedy-Schmidt,Delayed,1
+180,"King, Scott and Smith",Delayed,1
+1,"Lewis, Baker and Mahoney",Delayed,1
+27,Lin-Rasmussen,Delayed,1
+69,"Martin, Mcdonald and Anderson",Delayed,1
+28,May-Ross,Delayed,1
+55,"Mcclain, Simmons and Meadows",Delayed,1
+149,"Mckinney LLC",Delayed,1
+117,"Mcknight Inc",Delayed,1
+178,"Miller Group",Delayed,1
+130,"Morse, Gonzales and Harrison",Delayed,1
+133,Munoz-Johnson,Delayed,1
+105,"Newton Ltd",Delayed,1
+16,"Nolan and Sons",Delayed,1
+123,"Ortiz Ltd",Delayed,1
+51,"Osborne and Sons",Delayed,1
+97,Peters-Black,Delayed,1
+113,Peterson-Sheppard,Delayed,1
+103,"Pierce, Bell and Chavez",Delayed,1
+74,Ramirez-Bean,Delayed,1
+166,"Rivera, Garcia and Kirk",Delayed,1
+67,Robinson-Graham,Delayed,1
+68,Rogers-Shelton,Delayed,1
+36,"Rush LLC",Delayed,1
+47,"Sanchez Group",Delayed,1
+109,Smith-Ferguson,Delayed,1
+89,"Snow, Stevens and Hernandez",Delayed,1
+136,Stone-Ramos,Delayed,1
+150,"Tran Inc",Delayed,1
+24,"Velasquez Group",Delayed,1
+46,Walker-Gonzalez,Delayed,1
+10,"Walters LLC",Delayed,1
+3,"Warner, Carr and Archer",Delayed,1
+58,"Washington, Allen and Gonzales",Delayed,1
+172,"Welch LLC",Delayed,1
+76,"Williams, Crane and Walker",Delayed,1
+81,"Wilson, Weiss and Oconnell",Delayed,1

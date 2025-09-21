@@ -1,0 +1,181 @@
+airline,status,flight_count
+"Lewis, Baker and Mahoney",Delayed,1
+"Wood and Sons","On Time",1
+"Warner, Carr and Archer",Delayed,1
+"Smith, Montoya and Evans",Cancelled,1
+"Mcmillan and Sons","On Time",1
+"Preston Ltd",Cancelled,1
+"Nelson PLC","On Time",1
+"Cooper, Watts and Farrell",Cancelled,1
+King-Odonnell,"On Time",1
+"Walters LLC",Delayed,1
+"Cook and Sons",Cancelled,1
+Martin-Ramos,"On Time",1
+Hoffman-Rodriguez,Cancelled,1
+"Gardner LLC","On Time",1
+"Hernandez, Anderson and Parker",Delayed,1
+"Nolan and Sons",Delayed,1
+"Estrada LLC","On Time",1
+"Henson, Russell and Oliver",Delayed,1
+"Hancock and Sons",Delayed,1
+"White LLC",Cancelled,1
+Pham-Shields,Cancelled,1
+"Adams Ltd",Cancelled,1
+Brennan-Garrison,"On Time",1
+"Velasquez Group",Delayed,1
+Hoover-Savage,Cancelled,1
+"Keller Group",Delayed,1
+Lin-Rasmussen,Delayed,1
+May-Ross,Delayed,1
+Crosby-Wilson,"On Time",1
+"Carpenter LLC","On Time",1
+"Carlson LLC",Cancelled,1
+Graham-Joyce,Delayed,1
+Lam-Lee,Cancelled,1
+"Graham, Meyer and Drake",Cancelled,1
+"Bentley, Mclaughlin and Gonzalez",Cancelled,1
+"Rush LLC",Delayed,1
+Alvarado-Martinez,Delayed,1
+"Parker, Ortiz and Powell","On Time",1
+"Martinez, Fisher and Bentley","On Time",1
+"Orr, Gilbert and Turner","On Time",1
+"Torres and Sons",Cancelled,1
+"Lawson, Morris and Ramos",Cancelled,1
+"Dixon Ltd",Delayed,1
+"Miller, Robertson and Schultz",Cancelled,1
+"Cardenas and Sons",Delayed,1
+Walker-Gonzalez,Delayed,1
+"Sanchez Group",Delayed,1
+"Gibson Ltd",Cancelled,1
+"Higgins Group","On Time",1
+Sanchez-Douglas,"On Time",1
+"Osborne and Sons",Delayed,1
+"Holmes, Williams and Wright","On Time",1
+Anderson-Marshall,Cancelled,1
+"Larson, Dodson and Vance",Cancelled,1
+"Mcclain, Simmons and Meadows",Delayed,1
+"Manning Group","On Time",1
+Walton-Larsen,"On Time",1
+"Washington, Allen and Gonzales",Delayed,1
+Young-Rogers,Cancelled,1
+"Taylor and Sons",Cancelled,1
+"Hernandez, Lewis and Perry",Cancelled,1
+"Owens, Brown and Wall",Cancelled,1
+"Shah, Smith and Gilmore","On Time",1
+Woods-Bender,Cancelled,1
+Castaneda-Ashley,Cancelled,1
+"Adkins, Payne and Morrison",Cancelled,1
+Robinson-Graham,Delayed,1
+Rogers-Shelton,Delayed,1
+"Martin, Mcdonald and Anderson",Delayed,1
+"Johnson, Long and Elliott",Cancelled,1
+"Day and Sons",Delayed,1
+"Williams Group",Cancelled,1
+"Gibson LLC","On Time",1
+Ramirez-Bean,Delayed,1
+Conley-Ruiz,Cancelled,1
+"Williams, Crane and Walker",Delayed,1
+"Williams, Johnson and Wright",Cancelled,1
+"Hernandez, Martinez and Caldwell","On Time",1
+"Marshall LLC",Cancelled,1
+Jackson-Lawson,Delayed,1
+"Wilson, Weiss and Oconnell",Delayed,1
+"Johnson, Collins and Byrd",Delayed,1
+David-Gonzalez,Delayed,1
+"Rivas, Sanchez and Terry",Cancelled,1
+"Burke, Martinez and Riggs","On Time",1
+"Reed Group","On Time",1
+Jones-Holland,"On Time",1
+Short-Garcia,Cancelled,1
+"Snow, Stevens and Hernandez",Delayed,1
+"Boyd, Santos and Gilbert",Cancelled,1
+Marshall-Petersen,Cancelled,1
+Morris-Sanchez,Cancelled,1
+Keith-Sanchez,Delayed,1
+"Bishop, Gray and Johnson",Cancelled,1
+"Freeman LLC",Delayed,1
+Peterson-Beard,Cancelled,1
+Peters-Black,Delayed,1
+"Allen Group",Delayed,1
+"Chang, Vaughn and Brewer",Delayed,1
+Mcguire-Davis,Cancelled,1
+Holt-Torres,"On Time",1
+Kennedy-Schmidt,Delayed,1
+"Pierce, Bell and Chavez",Delayed,1
+Hall-Griffith,Cancelled,1
+"Newton Ltd",Delayed,1
+"Robinson Group",Cancelled,1
+"Lawrence, Wolf and Carlson","On Time",1
+"Phillips LLC",Cancelled,1
+Smith-Ferguson,Delayed,1
+"Mccann PLC",Cancelled,1
+"Raymond, Little and Mullins",Cancelled,1
+"Andrews Group",Delayed,1
+Peterson-Sheppard,Delayed,1
+Wilson-Jones,Cancelled,1
+"Ray Ltd","On Time",1
+"Hernandez PLC",Cancelled,1
+"Mcknight Inc",Delayed,1
+Obrien-Gibbs,Cancelled,1
+"James, Kerr and Evans","On Time",1
+Torres-Oliver,"On Time",1
+"Garcia, Farmer and Garrett","On Time",1
+"Miller, Allen and Arnold","On Time",1
+"Ortiz Ltd",Delayed,1
+Carter-Hall,"On Time",1
+Warner-Gibson,Cancelled,1
+"Bradshaw Ltd",Delayed,1
+"Lara, Gonzalez and Wilson","On Time",1
+"Hernandez, Baker and Thomas",Delayed,1
+"Sparks PLC",Cancelled,1
+"Morse, Gonzales and Harrison",Delayed,1
+"Powell, Nelson and Fernandez",Cancelled,1
+"George Group",Delayed,1
+Munoz-Johnson,Delayed,1
+"Huff, Johnston and Sampson",Delayed,1
+"Underwood, Johnston and Hines",Cancelled,1
+Stone-Ramos,Delayed,1
+"Shea Group","On Time",1
+Costa-Harrison,Cancelled,1
+Morris-Garcia,Cancelled,1
+Jenkins-Simpson,"On Time",1
+Cervantes-Pierce,Delayed,1
+"Edwards LLC",Delayed,1
+Hancock-Bryan,Cancelled,1
+"Booth, Murray and Brown",Delayed,1
+Dean-Jimenez,Cancelled,1
+"Harris PLC",Delayed,1
+Kim-Wolfe,"On Time",1
+"Dudley PLC","On Time",1
+"Mckinney LLC",Delayed,1
+"Tran Inc",Delayed,1
+"Murray Inc","On Time",1
+"Jimenez Ltd",Delayed,1
+"Thornton, Perry and Olson",Cancelled,1
+"Bryant and Sons",Cancelled,1
+"Weeks PLC","On Time",1
+"Shields LLC","On Time",1
+Morgan-French,"On Time",1
+"Campbell LLC","On Time",1
+"Duarte, Burns and Hernandez","On Time",1
+Reed-Arnold,Cancelled,1
+Gibson-Morris,Cancelled,1
+"Allen, Reyes and Chase",Delayed,1
+"Flores Group",Delayed,1
+Hughes-Alvarado,Delayed,1
+"Pollard, Simpson and Johnson",Cancelled,1
+"Rivera, Garcia and Kirk",Delayed,1
+"Lozano, Smith and Thomas",Cancelled,1
+"Jones LLC","On Time",1
+"Schwartz, Santos and Christian",Cancelled,1
+"James, Stewart and Higgins",Delayed,1
+Brennan-Johnson,Delayed,1
+"Welch LLC",Delayed,1
+"Davis, Good and Hodges",Delayed,1
+"Wallace Ltd","On Time",1
+"Williams Inc","On Time",1
+Brooks-Thomas,Cancelled,1
+Knight-Sparks,"On Time",1
+"Miller Group",Delayed,1
+"Allen, Durham and Thomas",Cancelled,1
+"King, Scott and Smith",Delayed,1

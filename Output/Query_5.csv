@@ -1,0 +1,1719 @@
+payment_id,amount,method
+1,703.00,"Debit Card"
+2,265.00,"Credit Card"
+3,937.00,NetBanking
+4,536.00,NetBanking
+5,925.00,NetBanking
+6,423.00,NetBanking
+8,50.00,"Credit Card"
+9,391.00,UPI
+10,316.00,"Credit Card"
+11,316.00,NetBanking
+13,402.00,UPI
+14,773.00,NetBanking
+15,870.00,UPI
+16,1039.00,UPI
+17,576.00,"Credit Card"
+18,763.00,"Credit Card"
+19,1326.00,"Credit Card"
+21,937.00,"Debit Card"
+23,1079.00,NetBanking
+24,1256.00,"Debit Card"
+25,284.00,"Credit Card"
+27,705.00,UPI
+28,1256.00,NetBanking
+29,1267.00,NetBanking
+30,676.00,"Debit Card"
+31,1281.00,UPI
+32,446.00,"Credit Card"
+33,278.00,"Debit Card"
+34,73.00,UPI
+37,773.00,"Credit Card"
+38,144.00,NetBanking
+39,304.00,UPI
+40,58.00,"Credit Card"
+41,601.00,NetBanking
+42,320.00,"Credit Card"
+43,50.00,"Credit Card"
+44,386.00,"Debit Card"
+45,773.00,UPI
+46,572.00,NetBanking
+47,415.00,"Debit Card"
+48,610.00,UPI
+49,760.00,"Debit Card"
+50,418.00,UPI
+51,822.00,NetBanking
+52,50.00,"Debit Card"
+53,480.00,UPI
+54,50.00,"Debit Card"
+55,547.00,"Debit Card"
+56,224.00,"Debit Card"
+57,445.00,"Debit Card"
+58,1210.00,UPI
+59,309.00,"Debit Card"
+60,941.00,"Credit Card"
+61,494.00,"Credit Card"
+62,494.00,"Credit Card"
+63,1326.00,"Debit Card"
+64,572.00,UPI
+65,50.00,"Credit Card"
+66,224.00,UPI
+67,458.00,UPI
+68,700.00,"Debit Card"
+69,367.00,"Debit Card"
+70,520.00,"Debit Card"
+71,241.00,UPI
+73,721.00,NetBanking
+74,975.00,UPI
+75,415.00,"Debit Card"
+76,937.00,"Debit Card"
+77,599.00,UPI
+78,296.00,"Credit Card"
+79,174.00,"Debit Card"
+80,863.00,NetBanking
+81,367.00,"Credit Card"
+83,428.00,"Credit Card"
+86,705.00,NetBanking
+87,531.00,"Credit Card"
+88,446.00,NetBanking
+89,1210.00,NetBanking
+90,429.00,NetBanking
+91,570.00,"Debit Card"
+92,494.00,"Debit Card"
+93,155.00,NetBanking
+94,248.00,"Credit Card"
+95,707.00,"Credit Card"
+96,564.00,"Debit Card"
+98,660.00,"Debit Card"
+99,50.00,"Debit Card"
+100,396.00,"Credit Card"
+101,219.00,NetBanking
+102,510.00,UPI
+103,536.00,UPI
+104,226.00,NetBanking
+105,703.00,"Debit Card"
+106,92.00,"Debit Card"
+107,413.00,"Credit Card"
+110,219.00,UPI
+111,572.00,"Credit Card"
+112,805.00,NetBanking
+113,316.00,"Credit Card"
+114,429.00,"Credit Card"
+115,870.00,NetBanking
+116,396.00,NetBanking
+117,210.00,NetBanking
+119,705.00,UPI
+121,941.00,UPI
+122,118.00,"Credit Card"
+123,937.00,NetBanking
+124,822.00,UPI
+125,370.00,"Debit Card"
+126,192.00,"Credit Card"
+127,501.00,NetBanking
+128,541.00,NetBanking
+129,539.00,"Credit Card"
+131,894.00,UPI
+133,73.00,"Debit Card"
+134,644.00,"Debit Card"
+136,588.00,"Credit Card"
+137,599.00,"Debit Card"
+138,501.00,"Debit Card"
+139,975.00,"Debit Card"
+141,572.00,"Credit Card"
+142,241.00,"Credit Card"
+143,247.00,"Debit Card"
+144,909.00,UPI
+145,458.00,UPI
+146,489.00,NetBanking
+147,74.00,"Debit Card"
+148,547.00,NetBanking
+150,1210.00,"Debit Card"
+151,775.00,"Debit Card"
+152,477.00,"Debit Card"
+153,676.00,UPI
+155,320.00,"Debit Card"
+156,711.00,"Credit Card"
+158,845.00,"Debit Card"
+159,962.00,UPI
+160,707.00,NetBanking
+161,413.00,UPI
+163,937.00,UPI
+164,320.00,"Credit Card"
+165,708.00,"Credit Card"
+166,224.00,UPI
+167,50.00,"Credit Card"
+168,1015.00,NetBanking
+170,429.00,"Debit Card"
+171,564.00,NetBanking
+172,1058.00,"Credit Card"
+173,237.00,NetBanking
+174,92.00,"Debit Card"
+175,429.00,"Debit Card"
+176,174.00,"Credit Card"
+177,278.00,"Credit Card"
+178,489.00,UPI
+179,863.00,"Debit Card"
+180,299.00,"Credit Card"
+181,316.00,NetBanking
+182,1101.00,"Credit Card"
+183,370.00,"Credit Card"
+184,239.00,NetBanking
+186,865.00,NetBanking
+187,92.00,NetBanking
+188,199.00,"Debit Card"
+189,763.00,"Credit Card"
+190,489.00,UPI
+192,845.00,NetBanking
+194,853.00,"Debit Card"
+195,884.00,UPI
+197,870.00,"Credit Card"
+198,863.00,NetBanking
+199,477.00,NetBanking
+200,705.00,"Debit Card"
+201,118.00,"Debit Card"
+202,721.00,"Debit Card"
+203,155.00,"Debit Card"
+205,485.00,"Debit Card"
+206,418.00,"Credit Card"
+207,1058.00,"Credit Card"
+209,773.00,UPI
+210,937.00,"Credit Card"
+211,894.00,"Debit Card"
+212,870.00,"Debit Card"
+213,144.00,UPI
+214,445.00,"Debit Card"
+215,962.00,UPI
+216,292.00,UPI
+217,82.00,NetBanking
+218,512.00,UPI
+220,863.00,UPI
+221,279.00,NetBanking
+222,701.00,UPI
+223,536.00,"Debit Card"
+224,932.00,"Credit Card"
+225,50.00,NetBanking
+227,1210.00,"Debit Card"
+228,326.00,"Debit Card"
+230,309.00,"Debit Card"
+231,172.00,"Credit Card"
+232,278.00,"Debit Card"
+233,1039.00,"Debit Card"
+234,626.00,NetBanking
+235,370.00,UPI
+236,256.00,"Credit Card"
+237,1058.00,NetBanking
+239,278.00,UPI
+240,256.00,"Debit Card"
+242,576.00,NetBanking
+243,1058.00,"Debit Card"
+244,50.00,NetBanking
+245,763.00,UPI
+247,441.00,"Credit Card"
+248,1220.00,UPI
+249,330.00,UPI
+250,265.00,UPI
+251,1210.00,"Debit Card"
+252,118.00,UPI
+253,429.00,UPI
+254,1058.00,NetBanking
+255,314.00,NetBanking
+256,50.00,"Credit Card"
+257,314.00,UPI
+258,760.00,UPI
+259,326.00,"Credit Card"
+260,937.00,UPI
+261,844.00,NetBanking
+262,470.00,"Credit Card"
+263,489.00,"Debit Card"
+265,391.00,"Debit Card"
+266,446.00,NetBanking
+267,510.00,"Credit Card"
+270,509.00,"Debit Card"
+271,50.00,UPI
+272,529.00,UPI
+273,698.00,NetBanking
+275,304.00,"Credit Card"
+277,1256.00,NetBanking
+278,532.00,"Debit Card"
+279,320.00,"Debit Card"
+280,50.00,"Debit Card"
+281,703.00,"Credit Card"
+282,510.00,"Debit Card"
+283,477.00,UPI
+284,367.00,"Debit Card"
+285,648.00,"Credit Card"
+286,547.00,UPI
+287,320.00,"Debit Card"
+288,1056.00,"Debit Card"
+289,510.00,UPI
+290,123.00,"Debit Card"
+291,865.00,"Credit Card"
+292,1267.00,"Debit Card"
+293,50.00,"Debit Card"
+294,292.00,"Debit Card"
+295,707.00,NetBanking
+296,845.00,"Debit Card"
+297,510.00,UPI
+298,822.00,"Credit Card"
+299,531.00,NetBanking
+300,446.00,UPI
+301,1056.00,NetBanking
+302,478.00,NetBanking
+305,870.00,UPI
+306,487.00,"Debit Card"
+307,480.00,UPI
+308,210.00,"Credit Card"
+309,446.00,"Credit Card"
+310,623.00,UPI
+311,975.00,UPI
+313,334.00,"Credit Card"
+314,446.00,"Credit Card"
+315,512.00,NetBanking
+316,279.00,"Debit Card"
+317,1326.00,"Debit Card"
+318,255.00,NetBanking
+319,521.00,"Debit Card"
+320,494.00,"Debit Card"
+322,304.00,"Debit Card"
+323,172.00,NetBanking
+324,510.00,NetBanking
+325,296.00,"Debit Card"
+326,446.00,"Debit Card"
+328,703.00,"Credit Card"
+330,705.00,UPI
+331,441.00,"Debit Card"
+332,721.00,NetBanking
+333,541.00,"Credit Card"
+335,265.00,"Debit Card"
+336,485.00,NetBanking
+337,953.00,"Debit Card"
+338,1101.00,UPI
+339,1281.00,UPI
+341,224.00,"Credit Card"
+342,386.00,UPI
+343,1326.00,"Credit Card"
+344,942.00,NetBanking
+345,1210.00,"Debit Card"
+346,775.00,NetBanking
+347,470.00,UPI
+348,446.00,"Credit Card"
+349,446.00,NetBanking
+350,265.00,"Debit Card"
+352,255.00,UPI
+354,210.00,"Credit Card"
+355,279.00,NetBanking
+356,395.00,UPI
+357,480.00,"Credit Card"
+358,547.00,NetBanking
+359,446.00,NetBanking
+360,783.00,"Debit Card"
+361,418.00,NetBanking
+362,588.00,UPI
+363,219.00,"Debit Card"
+364,773.00,"Credit Card"
+365,527.00,"Credit Card"
+367,711.00,"Debit Card"
+368,941.00,NetBanking
+369,330.00,NetBanking
+370,326.00,NetBanking
+371,370.00,"Credit Card"
+372,418.00,"Credit Card"
+373,441.00,UPI
+374,934.00,UPI
+375,510.00,UPI
+376,536.00,UPI
+377,928.00,NetBanking
+379,296.00,UPI
+380,711.00,"Credit Card"
+381,487.00,"Credit Card"
+382,429.00,"Credit Card"
+383,536.00,NetBanking
+384,865.00,"Debit Card"
+385,82.00,NetBanking
+386,219.00,"Debit Card"
+387,674.00,NetBanking
+388,226.00,UPI
+389,578.00,"Credit Card"
+390,805.00,NetBanking
+392,1210.00,NetBanking
+393,1460.00,"Credit Card"
+394,547.00,"Credit Card"
+396,884.00,"Credit Card"
+397,402.00,"Credit Card"
+399,304.00,UPI
+400,478.00,NetBanking
+401,441.00,NetBanking
+402,705.00,"Credit Card"
+404,415.00,NetBanking
+405,925.00,NetBanking
+406,539.00,"Credit Card"
+407,237.00,NetBanking
+408,309.00,NetBanking
+409,489.00,"Credit Card"
+410,470.00,"Debit Card"
+411,418.00,"Debit Card"
+412,466.00,"Credit Card"
+413,50.00,UPI
+414,1015.00,"Credit Card"
+415,536.00,UPI
+416,265.00,NetBanking
+417,599.00,"Credit Card"
+418,172.00,NetBanking
+420,773.00,UPI
+421,489.00,UPI
+422,932.00,UPI
+424,541.00,UPI
+427,396.00,UPI
+428,477.00,NetBanking
+430,612.00,"Debit Card"
+431,226.00,"Debit Card"
+432,402.00,UPI
+434,698.00,UPI
+435,1101.00,"Debit Card"
+436,265.00,NetBanking
+437,370.00,"Credit Card"
+438,334.00,UPI
+439,192.00,UPI
+440,698.00,"Debit Card"
+441,510.00,UPI
+443,429.00,"Credit Card"
+444,418.00,"Credit Card"
+445,701.00,NetBanking
+446,326.00,UPI
+449,512.00,NetBanking
+450,224.00,"Debit Card"
+451,396.00,UPI
+452,626.00,NetBanking
+453,532.00,UPI
+454,1267.00,UPI
+456,572.00,UPI
+457,571.00,"Debit Card"
+458,1210.00,"Debit Card"
+460,226.00,"Credit Card"
+461,925.00,"Credit Card"
+463,509.00,UPI
+464,626.00,UPI
+466,248.00,NetBanking
+467,489.00,"Credit Card"
+468,82.00,"Debit Card"
+470,82.00,"Credit Card"
+471,610.00,NetBanking
+472,50.00,UPI
+473,458.00,"Debit Card"
+474,123.00,UPI
+476,487.00,NetBanking
+477,845.00,"Debit Card"
+479,660.00,"Credit Card"
+480,962.00,UPI
+481,396.00,"Credit Card"
+482,192.00,UPI
+483,1256.00,"Debit Card"
+484,703.00,NetBanking
+485,320.00,"Credit Card"
+488,707.00,UPI
+490,510.00,NetBanking
+491,572.00,"Debit Card"
+492,256.00,"Debit Card"
+494,612.00,"Debit Card"
+495,477.00,NetBanking
+496,428.00,"Debit Card"
+497,73.00,"Debit Card"
+498,418.00,"Credit Card"
+499,934.00,UPI
+500,328.00,"Debit Card"
+501,330.00,"Credit Card"
+502,547.00,NetBanking
+503,928.00,NetBanking
+504,1256.00,NetBanking
+505,845.00,"Debit Card"
+506,721.00,NetBanking
+507,701.00,"Debit Card"
+508,941.00,NetBanking
+509,601.00,NetBanking
+510,588.00,UPI
+511,309.00,UPI
+512,278.00,UPI
+513,1039.00,NetBanking
+515,237.00,UPI
+516,1058.00,"Debit Card"
+517,50.00,UPI
+518,480.00,UPI
+519,539.00,"Credit Card"
+520,50.00,"Debit Card"
+521,418.00,UPI
+523,928.00,"Debit Card"
+524,370.00,"Credit Card"
+525,578.00,NetBanking
+526,579.00,UPI
+527,512.00,"Credit Card"
+528,576.00,"Debit Card"
+530,763.00,"Debit Card"
+532,1281.00,UPI
+533,705.00,"Credit Card"
+534,521.00,NetBanking
+535,172.00,NetBanking
+536,773.00,NetBanking
+537,721.00,NetBanking
+538,531.00,"Credit Card"
+539,510.00,"Debit Card"
+540,441.00,"Credit Card"
+541,118.00,NetBanking
+542,510.00,"Credit Card"
+543,423.00,UPI
+544,660.00,NetBanking
+545,623.00,"Debit Card"
+547,224.00,UPI
+548,466.00,"Credit Card"
+551,626.00,"Credit Card"
+553,82.00,NetBanking
+554,241.00,"Debit Card"
+555,256.00,NetBanking
+556,418.00,"Debit Card"
+557,760.00,NetBanking
+558,610.00,UPI
+559,172.00,UPI
+560,510.00,UPI
+561,395.00,"Debit Card"
+562,309.00,NetBanking
+563,371.00,"Debit Card"
+564,529.00,UPI
+565,449.00,"Credit Card"
+566,50.00,"Credit Card"
+567,255.00,UPI
+569,775.00,"Credit Card"
+572,853.00,"Debit Card"
+573,82.00,"Debit Card"
+574,50.00,"Debit Card"
+575,579.00,"Debit Card"
+576,909.00,"Debit Card"
+577,708.00,"Credit Card"
+579,247.00,"Credit Card"
+580,531.00,UPI
+581,478.00,"Credit Card"
+582,527.00,"Credit Card"
+584,660.00,NetBanking
+585,707.00,NetBanking
+586,510.00,NetBanking
+587,775.00,NetBanking
+588,480.00,"Debit Card"
+589,396.00,UPI
+590,413.00,"Debit Card"
+591,480.00,"Credit Card"
+592,578.00,UPI
+593,330.00,UPI
+595,701.00,NetBanking
+596,304.00,UPI
+597,703.00,NetBanking
+598,865.00,"Credit Card"
+599,478.00,"Debit Card"
+600,239.00,UPI
+601,962.00,NetBanking
+602,413.00,"Debit Card"
+603,402.00,"Debit Card"
+604,155.00,UPI
+605,74.00,"Credit Card"
+607,50.00,NetBanking
+608,423.00,"Credit Card"
+609,909.00,UPI
+610,536.00,"Credit Card"
+611,92.00,"Credit Card"
+612,70.00,"Credit Card"
+613,395.00,UPI
+614,644.00,"Credit Card"
+615,644.00,"Debit Card"
+616,508.00,"Credit Card"
+617,1079.00,"Credit Card"
+618,527.00,"Credit Card"
+619,509.00,UPI
+620,247.00,NetBanking
+621,1056.00,UPI
+623,571.00,UPI
+624,58.00,"Credit Card"
+625,763.00,"Debit Card"
+628,564.00,"Debit Card"
+629,326.00,"Debit Card"
+630,367.00,UPI
+631,279.00,"Credit Card"
+632,279.00,"Debit Card"
+633,610.00,UPI
+635,1220.00,NetBanking
+636,470.00,"Debit Card"
+637,50.00,"Debit Card"
+638,82.00,NetBanking
+639,62.00,"Credit Card"
+641,477.00,"Credit Card"
+642,707.00,UPI
+643,371.00,UPI
+645,248.00,UPI
+647,1326.00,"Debit Card"
+648,489.00,"Credit Card"
+649,932.00,NetBanking
+651,449.00,"Debit Card"
+652,531.00,UPI
+653,446.00,NetBanking
+654,934.00,NetBanking
+656,82.00,"Credit Card"
+657,489.00,"Credit Card"
+658,299.00,UPI
+660,219.00,UPI
+661,547.00,"Debit Card"
+663,150.00,NetBanking
+664,50.00,"Debit Card"
+665,1015.00,NetBanking
+666,705.00,"Credit Card"
+667,674.00,UPI
+668,512.00,"Credit Card"
+669,576.00,NetBanking
+670,705.00,"Credit Card"
+671,1056.00,"Credit Card"
+672,330.00,UPI
+673,355.00,NetBanking
+674,773.00,"Debit Card"
+675,541.00,UPI
+676,241.00,UPI
+677,822.00,"Debit Card"
+679,705.00,"Debit Card"
+680,783.00,UPI
+681,698.00,NetBanking
+683,953.00,NetBanking
+684,466.00,NetBanking
+685,660.00,"Credit Card"
+686,942.00,NetBanking
+687,247.00,"Credit Card"
+688,118.00,NetBanking
+689,299.00,"Credit Card"
+690,1015.00,UPI
+691,50.00,NetBanking
+692,570.00,NetBanking
+693,676.00,UPI
+694,610.00,NetBanking
+695,445.00,UPI
+697,909.00,"Credit Card"
+698,316.00,"Debit Card"
+700,82.00,UPI
+701,480.00,"Debit Card"
+702,418.00,UPI
+703,644.00,"Credit Card"
+704,654.00,"Credit Card"
+705,1460.00,"Credit Card"
+707,328.00,NetBanking
+708,309.00,"Debit Card"
+709,707.00,UPI
+710,865.00,"Credit Card"
+711,708.00,NetBanking
+713,1058.00,UPI
+714,572.00,"Credit Card"
+716,50.00,"Credit Card"
+717,512.00,NetBanking
+718,423.00,"Debit Card"
+719,705.00,"Debit Card"
+720,763.00,UPI
+721,411.00,"Credit Card"
+722,316.00,"Debit Card"
+723,144.00,NetBanking
+724,415.00,"Debit Card"
+726,962.00,"Credit Card"
+727,863.00,NetBanking
+728,480.00,"Debit Card"
+729,508.00,"Credit Card"
+730,174.00,UPI
+731,371.00,"Credit Card"
+732,773.00,"Debit Card"
+733,480.00,UPI
+734,237.00,"Debit Card"
+735,648.00,NetBanking
+736,570.00,"Debit Card"
+737,975.00,UPI
+738,845.00,NetBanking
+739,265.00,"Credit Card"
+740,265.00,"Debit Card"
+741,470.00,"Debit Card"
+742,844.00,"Debit Card"
+743,531.00,UPI
+744,210.00,NetBanking
+745,539.00,UPI
+746,1460.00,"Debit Card"
+747,415.00,UPI
+748,660.00,NetBanking
+749,700.00,"Credit Card"
+750,623.00,NetBanking
+751,532.00,NetBanking
+752,458.00,NetBanking
+753,449.00,UPI
+754,477.00,"Debit Card"
+755,371.00,NetBanking
+756,1256.00,UPI
+757,477.00,"Credit Card"
+758,576.00,NetBanking
+759,445.00,"Credit Card"
+760,226.00,NetBanking
+761,413.00,"Debit Card"
+762,58.00,"Debit Card"
+763,711.00,"Credit Card"
+764,199.00,"Credit Card"
+765,480.00,"Credit Card"
+766,466.00,"Debit Card"
+767,1101.00,NetBanking
+768,192.00,"Credit Card"
+769,309.00,"Debit Card"
+770,942.00,UPI
+771,962.00,"Debit Card"
+772,509.00,UPI
+773,576.00,NetBanking
+775,509.00,UPI
+777,599.00,UPI
+778,82.00,"Credit Card"
+779,494.00,"Credit Card"
+780,123.00,NetBanking
+781,703.00,"Debit Card"
+782,296.00,"Credit Card"
+783,489.00,NetBanking
+784,413.00,"Debit Card"
+787,708.00,NetBanking
+788,674.00,NetBanking
+789,314.00,"Credit Card"
+790,529.00,"Credit Card"
+791,296.00,"Debit Card"
+792,1015.00,"Credit Card"
+793,494.00,NetBanking
+795,309.00,"Credit Card"
+796,429.00,"Credit Card"
+797,572.00,"Debit Card"
+798,370.00,NetBanking
+799,485.00,UPI
+800,529.00,NetBanking
+801,304.00,"Debit Card"
+802,703.00,NetBanking
+803,527.00,"Credit Card"
+804,763.00,"Debit Card"
+805,760.00,"Debit Card"
+806,520.00,UPI
+807,441.00,"Credit Card"
+808,172.00,"Credit Card"
+809,612.00,"Debit Card"
+810,783.00,UPI
+812,1210.00,"Debit Card"
+814,370.00,NetBanking
+816,941.00,"Credit Card"
+817,539.00,NetBanking
+818,367.00,NetBanking
+819,570.00,"Debit Card"
+820,118.00,UPI
+821,884.00,"Credit Card"
+823,192.00,"Debit Card"
+824,226.00,"Debit Card"
+825,1267.00,UPI
+826,402.00,NetBanking
+828,531.00,NetBanking
+829,941.00,"Credit Card"
+831,536.00,UPI
+832,539.00,"Debit Card"
+834,501.00,UPI
+835,256.00,"Credit Card"
+836,763.00,"Credit Card"
+838,248.00,NetBanking
+839,73.00,"Credit Card"
+841,239.00,UPI
+842,773.00,UPI
+843,449.00,"Credit Card"
+844,210.00,"Debit Card"
+845,497.00,"Credit Card"
+846,612.00,"Debit Card"
+847,880.00,"Credit Card"
+849,527.00,"Credit Card"
+850,497.00,"Credit Card"
+851,314.00,NetBanking
+852,531.00,"Credit Card"
+855,239.00,"Credit Card"
+856,210.00,"Credit Card"
+857,449.00,NetBanking
+858,118.00,NetBanking
+859,50.00,UPI
+861,144.00,NetBanking
+862,576.00,"Debit Card"
+863,512.00,NetBanking
+864,466.00,UPI
+865,863.00,UPI
+866,1039.00,NetBanking
+867,50.00,NetBanking
+868,844.00,"Debit Card"
+869,703.00,NetBanking
+870,880.00,UPI
+871,508.00,"Debit Card"
+873,470.00,UPI
+874,942.00,"Debit Card"
+875,512.00,NetBanking
+877,1267.00,"Debit Card"
+878,411.00,UPI
+879,648.00,"Credit Card"
+880,705.00,NetBanking
+881,224.00,UPI
+882,150.00,"Debit Card"
+883,265.00,"Credit Card"
+885,521.00,NetBanking
+886,367.00,"Debit Card"
+887,1220.00,NetBanking
+888,330.00,"Debit Card"
+890,942.00,"Debit Card"
+891,296.00,NetBanking
+893,941.00,NetBanking
+895,529.00,NetBanking
+896,446.00,NetBanking
+897,510.00,NetBanking
+898,284.00,NetBanking
+899,711.00,UPI
+900,292.00,UPI
+902,805.00,NetBanking
+903,446.00,"Debit Card"
+904,296.00,"Debit Card"
+905,674.00,"Debit Card"
+906,449.00,"Debit Card"
+907,541.00,"Debit Card"
+908,239.00,"Debit Card"
+909,674.00,UPI
+910,70.00,NetBanking
+911,478.00,NetBanking
+913,320.00,UPI
+914,155.00,"Debit Card"
+915,314.00,NetBanking
+916,884.00,"Debit Card"
+917,402.00,NetBanking
+918,576.00,"Credit Card"
+919,760.00,NetBanking
+920,470.00,UPI
+921,1101.00,NetBanking
+922,845.00,"Credit Card"
+923,521.00,"Debit Card"
+924,118.00,"Debit Card"
+925,62.00,UPI
+926,172.00,"Debit Card"
+927,805.00,NetBanking
+928,118.00,NetBanking
+929,402.00,"Debit Card"
+930,532.00,NetBanking
+931,123.00,"Credit Card"
+932,660.00,"Debit Card"
+933,445.00,NetBanking
+934,521.00,"Debit Card"
+935,441.00,UPI
+936,880.00,"Debit Card"
+937,660.00,NetBanking
+938,532.00,"Debit Card"
+939,144.00,"Debit Card"
+941,396.00,UPI
+942,330.00,NetBanking
+943,299.00,"Debit Card"
+944,118.00,"Debit Card"
+945,934.00,NetBanking
+946,92.00,UPI
+947,50.00,"Credit Card"
+948,92.00,"Credit Card"
+949,760.00,"Credit Card"
+950,721.00,"Credit Card"
+951,334.00,"Credit Card"
+952,1056.00,"Credit Card"
+953,822.00,"Credit Card"
+954,58.00,UPI
+955,962.00,"Credit Card"
+956,773.00,UPI
+957,520.00,UPI
+958,703.00,"Debit Card"
+959,144.00,"Debit Card"
+960,446.00,"Debit Card"
+961,247.00,UPI
+962,247.00,"Credit Card"
+963,571.00,UPI
+964,92.00,UPI
+965,210.00,NetBanking
+966,446.00,NetBanking
+967,58.00,UPI
+968,1015.00,"Debit Card"
+969,150.00,UPI
+970,925.00,UPI
+972,284.00,"Debit Card"
+973,210.00,"Debit Card"
+974,413.00,"Debit Card"
+975,708.00,NetBanking
+976,701.00,"Credit Card"
+977,402.00,NetBanking
+978,279.00,"Debit Card"
+979,501.00,NetBanking
+980,707.00,UPI
+981,894.00,"Debit Card"
+982,501.00,"Credit Card"
+983,588.00,"Debit Card"
+984,391.00,NetBanking
+985,894.00,"Credit Card"
+986,822.00,"Credit Card"
+988,674.00,NetBanking
+989,1079.00,NetBanking
+992,1015.00,"Debit Card"
+994,529.00,UPI
+995,529.00,NetBanking
+996,805.00,"Debit Card"
+997,962.00,NetBanking
+998,529.00,"Credit Card"
+1000,50.00,UPI
+1001,865.00,UPI
+1002,247.00,"Credit Card"
+1003,707.00,UPI
+1004,601.00,"Credit Card"
+1005,501.00,"Debit Card"
+1006,529.00,"Debit Card"
+1008,626.00,NetBanking
+1009,844.00,"Debit Card"
+1010,395.00,"Credit Card"
+1011,396.00,"Debit Card"
+1012,446.00,UPI
+1013,508.00,UPI
+1014,953.00,"Credit Card"
+1015,508.00,UPI
+1016,485.00,NetBanking
+1017,330.00,"Credit Card"
+1018,355.00,NetBanking
+1020,1210.00,UPI
+1021,144.00,UPI
+1022,934.00,"Debit Card"
+1023,367.00,UPI
+1024,256.00,"Credit Card"
+1026,1039.00,UPI
+1027,478.00,"Debit Card"
+1028,241.00,"Credit Card"
+1031,532.00,UPI
+1032,477.00,NetBanking
+1033,1210.00,NetBanking
+1034,296.00,UPI
+1035,62.00,"Credit Card"
+1037,428.00,NetBanking
+1039,50.00,UPI
+1042,226.00,"Credit Card"
+1044,501.00,UPI
+1046,73.00,"Debit Card"
+1047,413.00,NetBanking
+1049,446.00,NetBanking
+1051,1267.00,UPI
+1052,711.00,NetBanking
+1053,174.00,UPI
+1054,510.00,UPI
+1055,241.00,NetBanking
+1057,334.00,UPI
+1058,894.00,"Debit Card"
+1059,648.00,UPI
+1060,863.00,UPI
+1061,155.00,"Debit Card"
+1062,541.00,NetBanking
+1063,1256.00,UPI
+1064,676.00,UPI
+1065,248.00,"Credit Card"
+1066,445.00,NetBanking
+1067,123.00,"Credit Card"
+1068,210.00,UPI
+1071,1220.00,"Debit Card"
+1072,870.00,"Credit Card"
+1073,763.00,"Debit Card"
+1074,578.00,"Credit Card"
+1075,497.00,"Debit Card"
+1077,330.00,"Credit Card"
+1078,284.00,"Debit Card"
+1079,428.00,"Debit Card"
+1081,445.00,"Credit Card"
+1082,477.00,"Credit Card"
+1083,880.00,"Credit Card"
+1084,314.00,UPI
+1085,531.00,"Credit Card"
+1086,265.00,"Debit Card"
+1087,477.00,NetBanking
+1088,192.00,UPI
+1089,73.00,"Credit Card"
+1090,654.00,"Credit Card"
+1091,50.00,"Credit Card"
+1092,73.00,"Debit Card"
+1093,489.00,"Debit Card"
+1094,415.00,"Credit Card"
+1095,155.00,"Debit Card"
+1096,703.00,"Credit Card"
+1097,174.00,"Credit Card"
+1098,635.00,"Credit Card"
+1099,937.00,NetBanking
+1101,50.00,"Debit Card"
+1102,705.00,"Credit Card"
+1103,711.00,"Credit Card"
+1105,326.00,UPI
+1106,612.00,"Debit Card"
+1107,174.00,NetBanking
+1108,82.00,"Debit Card"
+1109,711.00,NetBanking
+1111,707.00,NetBanking
+1112,62.00,UPI
+1114,845.00,NetBanking
+1116,92.00,"Credit Card"
+1117,224.00,"Credit Card"
+1119,485.00,"Debit Card"
+1120,937.00,UPI
+1121,446.00,"Debit Card"
+1122,975.00,"Debit Card"
+1125,909.00,"Debit Card"
+1126,446.00,"Debit Card"
+1127,509.00,UPI
+1128,1326.00,"Debit Card"
+1129,50.00,"Debit Card"
+1130,822.00,NetBanking
+1131,884.00,UPI
+1132,192.00,NetBanking
+1133,822.00,UPI
+1134,62.00,"Debit Card"
+1135,660.00,NetBanking
+1136,760.00,UPI
+1137,391.00,UPI
+1138,865.00,"Debit Card"
+1139,1058.00,"Credit Card"
+1140,413.00,UPI
+1141,241.00,UPI
+1142,775.00,"Debit Card"
+1143,937.00,"Credit Card"
+1144,50.00,"Credit Card"
+1145,1256.00,"Credit Card"
+1146,226.00,NetBanking
+1148,446.00,"Credit Card"
+1149,199.00,NetBanking
+1150,494.00,"Credit Card"
+1151,623.00,NetBanking
+1152,934.00,"Credit Card"
+1153,934.00,"Credit Card"
+1154,265.00,UPI
+1155,805.00,UPI
+1156,210.00,"Credit Card"
+1157,1015.00,UPI
+1158,355.00,UPI
+1159,760.00,NetBanking
+1160,1460.00,UPI
+1161,805.00,NetBanking
+1162,674.00,UPI
+1163,1101.00,NetBanking
+1164,805.00,UPI
+1165,418.00,NetBanking
+1166,278.00,UPI
+1167,564.00,"Debit Card"
+1168,1210.00,"Debit Card"
+1169,73.00,"Debit Card"
+1170,1015.00,"Credit Card"
+1171,599.00,UPI
+1172,50.00,NetBanking
+1174,763.00,NetBanking
+1175,1460.00,UPI
+1176,470.00,NetBanking
+1177,70.00,NetBanking
+1178,62.00,NetBanking
+1179,70.00,NetBanking
+1180,623.00,"Debit Card"
+1181,470.00,"Debit Card"
+1182,50.00,NetBanking
+1183,58.00,NetBanking
+1184,932.00,"Credit Card"
+1186,446.00,UPI
+1187,570.00,NetBanking
+1188,571.00,"Debit Card"
+1189,654.00,NetBanking
+1190,50.00,UPI
+1191,1015.00,"Credit Card"
+1192,489.00,NetBanking
+1193,199.00,"Debit Card"
+1195,975.00,"Debit Card"
+1197,805.00,"Credit Card"
+1199,1079.00,NetBanking
+1200,314.00,NetBanking
+1202,660.00,UPI
+1203,576.00,UPI
+1205,763.00,"Credit Card"
+1206,355.00,NetBanking
+1207,458.00,NetBanking
+1208,326.00,"Debit Card"
+1210,458.00,UPI
+1211,299.00,"Debit Card"
+1212,415.00,"Debit Card"
+1214,721.00,NetBanking
+1217,309.00,"Debit Card"
+1218,396.00,NetBanking
+1219,309.00,"Credit Card"
+1220,1058.00,UPI
+1222,571.00,"Credit Card"
+1223,705.00,UPI
+1224,489.00,NetBanking
+1225,1101.00,UPI
+1226,700.00,"Debit Card"
+1227,155.00,"Debit Card"
+1228,953.00,NetBanking
+1229,612.00,"Debit Card"
+1230,572.00,NetBanking
+1231,626.00,NetBanking
+1232,572.00,"Credit Card"
+1233,445.00,UPI
+1234,396.00,"Debit Card"
+1235,367.00,UPI
+1237,58.00,NetBanking
+1238,50.00,"Credit Card"
+1239,805.00,"Debit Card"
+1240,612.00,UPI
+1241,925.00,UPI
+1243,941.00,"Debit Card"
+1244,932.00,UPI
+1245,610.00,NetBanking
+1246,579.00,"Credit Card"
+1247,541.00,"Credit Card"
+1248,880.00,NetBanking
+1249,599.00,UPI
+1250,894.00,NetBanking
+1251,237.00,"Debit Card"
+1252,144.00,"Debit Card"
+1253,635.00,UPI
+1254,314.00,"Debit Card"
+1255,73.00,UPI
+1256,395.00,NetBanking
+1257,355.00,UPI
+1258,1220.00,UPI
+1259,239.00,UPI
+1262,1281.00,UPI
+1263,309.00,"Debit Card"
+1264,413.00,"Debit Card"
+1266,458.00,NetBanking
+1267,1056.00,NetBanking
+1270,224.00,"Credit Card"
+1271,265.00,NetBanking
+1272,192.00,"Debit Card"
+1275,144.00,NetBanking
+1277,601.00,UPI
+1278,527.00,"Credit Card"
+1280,355.00,NetBanking
+1281,845.00,"Debit Card"
+1282,330.00,UPI
+1283,478.00,"Debit Card"
+1284,487.00,UPI
+1285,418.00,"Credit Card"
+1286,880.00,NetBanking
+1287,501.00,"Debit Card"
+1288,355.00,"Debit Card"
+1289,962.00,"Credit Card"
+1290,654.00,UPI
+1291,1267.00,UPI
+1292,82.00,NetBanking
+1293,396.00,"Debit Card"
+1294,489.00,UPI
+1295,485.00,UPI
+1296,863.00,NetBanking
+1297,532.00,UPI
+1298,884.00,"Debit Card"
+1299,192.00,"Debit Card"
+1300,470.00,"Credit Card"
+1301,532.00,UPI
+1302,721.00,"Credit Card"
+1303,74.00,"Debit Card"
+1305,660.00,"Debit Card"
+1306,279.00,NetBanking
+1307,118.00,NetBanking
+1308,278.00,"Credit Card"
+1309,1101.00,UPI
+1310,942.00,UPI
+1311,599.00,"Debit Card"
+1312,539.00,"Debit Card"
+1313,210.00,UPI
+1314,676.00,"Credit Card"
+1315,50.00,"Credit Card"
+1316,1058.00,NetBanking
+1317,62.00,"Credit Card"
+1318,626.00,UPI
+1320,487.00,"Debit Card"
+1321,763.00,NetBanking
+1322,953.00,NetBanking
+1324,470.00,NetBanking
+1325,527.00,UPI
+1327,150.00,UPI
+1329,576.00,UPI
+1330,932.00,"Debit Card"
+1331,1056.00,NetBanking
+1332,50.00,UPI
+1333,192.00,"Debit Card"
+1335,501.00,UPI
+1336,334.00,"Credit Card"
+1337,508.00,"Credit Card"
+1338,396.00,"Credit Card"
+1339,123.00,UPI
+1340,676.00,NetBanking
+1341,539.00,UPI
+1342,224.00,"Debit Card"
+1343,707.00,UPI
+1344,411.00,NetBanking
+1345,386.00,"Credit Card"
+1346,773.00,NetBanking
+1349,763.00,"Debit Card"
+1350,62.00,UPI
+1351,155.00,"Credit Card"
+1352,909.00,UPI
+1353,284.00,UPI
+1354,884.00,"Credit Card"
+1355,50.00,"Credit Card"
+1356,415.00,"Debit Card"
+1357,536.00,NetBanking
+1359,547.00,"Credit Card"
+1360,1326.00,"Debit Card"
+1361,635.00,"Debit Card"
+1362,635.00,"Credit Card"
+1363,370.00,"Debit Card"
+1364,707.00,"Debit Card"
+1365,822.00,"Credit Card"
+1366,320.00,UPI
+1367,932.00,UPI
+1368,865.00,UPI
+1369,527.00,"Credit Card"
+1371,822.00,UPI
+1372,265.00,"Credit Card"
+1373,610.00,NetBanking
+1374,870.00,NetBanking
+1375,429.00,"Credit Card"
+1376,497.00,NetBanking
+1377,521.00,NetBanking
+1378,334.00,"Debit Card"
+1379,210.00,"Credit Card"
+1380,698.00,"Debit Card"
+1381,909.00,NetBanking
+1382,255.00,"Debit Card"
+1383,199.00,"Credit Card"
+1384,144.00,UPI
+1385,623.00,"Debit Card"
+1386,367.00,"Debit Card"
+1387,705.00,"Credit Card"
+1389,844.00,"Credit Card"
+1390,370.00,"Debit Card"
+1391,599.00,NetBanking
+1392,118.00,"Credit Card"
+1393,601.00,"Credit Card"
+1394,309.00,"Debit Card"
+1395,701.00,"Debit Card"
+1396,210.00,"Debit Card"
+1397,1056.00,"Debit Card"
+1398,925.00,UPI
+1399,520.00,UPI
+1400,62.00,NetBanking
+1402,446.00,"Credit Card"
+1403,541.00,UPI
+1405,953.00,"Credit Card"
+1406,255.00,NetBanking
+1407,284.00,"Credit Card"
+1408,508.00,"Credit Card"
+1409,155.00,"Debit Card"
+1410,485.00,"Credit Card"
+1411,623.00,"Debit Card"
+1412,601.00,"Debit Card"
+1413,711.00,NetBanking
+1414,674.00,"Credit Card"
+1415,428.00,UPI
+1416,50.00,"Credit Card"
+1417,783.00,UPI
+1418,676.00,"Debit Card"
+1419,571.00,NetBanking
+1420,510.00,"Debit Card"
+1422,510.00,"Credit Card"
+1424,50.00,UPI
+1425,934.00,UPI
+1426,711.00,NetBanking
+1427,316.00,"Debit Card"
+1428,328.00,"Debit Card"
+1429,932.00,UPI
+1430,446.00,UPI
+1431,775.00,"Debit Card"
+1433,428.00,UPI
+1434,150.00,NetBanking
+1435,763.00,"Credit Card"
+1436,707.00,UPI
+1437,489.00,NetBanking
+1438,845.00,"Credit Card"
+1440,1039.00,NetBanking
+1441,705.00,"Debit Card"
+1442,334.00,"Debit Card"
+1443,578.00,"Credit Card"
+1444,610.00,"Credit Card"
+1445,458.00,NetBanking
+1447,172.00,"Debit Card"
+1448,82.00,"Debit Card"
+1449,470.00,UPI
+1450,155.00,"Debit Card"
+1451,601.00,UPI
+1452,501.00,UPI
+1453,529.00,NetBanking
+1454,445.00,"Credit Card"
+1455,92.00,"Debit Card"
+1457,70.00,"Debit Card"
+1458,1220.00,"Credit Card"
+1459,648.00,UPI
+1460,588.00,"Credit Card"
+1461,314.00,"Debit Card"
+1462,953.00,"Debit Card"
+1463,74.00,UPI
+1464,386.00,"Debit Card"
+1465,395.00,NetBanking
+1466,489.00,NetBanking
+1467,239.00,UPI
+1468,925.00,NetBanking
+1469,539.00,NetBanking
+1470,446.00,"Debit Card"
+1471,314.00,NetBanking
+1472,429.00,NetBanking
+1473,118.00,UPI
+1474,489.00,"Debit Card"
+1475,1281.00,"Credit Card"
+1477,489.00,"Credit Card"
+1478,783.00,"Credit Card"
+1479,1460.00,"Credit Card"
+1480,123.00,"Credit Card"
+1482,601.00,"Credit Card"
+1483,256.00,UPI
+1484,909.00,NetBanking
+1485,698.00,NetBanking
+1486,941.00,"Debit Card"
+1487,446.00,"Credit Card"
+1488,539.00,"Credit Card"
+1489,773.00,UPI
+1490,1058.00,"Debit Card"
+1491,1058.00,"Debit Card"
+1492,485.00,NetBanking
+1493,1281.00,UPI
+1494,314.00,"Credit Card"
+1495,415.00,UPI
+1496,863.00,NetBanking
+1497,174.00,"Credit Card"
+1499,571.00,"Credit Card"
+1502,466.00,"Debit Card"
+1503,941.00,UPI
+1504,237.00,NetBanking
+1506,446.00,"Credit Card"
+1507,932.00,"Credit Card"
+1508,564.00,NetBanking
+1509,1460.00,"Debit Card"
+1510,279.00,"Credit Card"
+1511,1326.00,"Credit Card"
+1512,863.00,"Credit Card"
+1513,320.00,"Debit Card"
+1514,391.00,NetBanking
+1515,571.00,UPI
+1516,660.00,UPI
+1517,50.00,"Credit Card"
+1519,1281.00,"Credit Card"
+1521,58.00,"Debit Card"
+1522,711.00,"Credit Card"
+1523,50.00,NetBanking
+1524,316.00,NetBanking
+1525,255.00,"Credit Card"
+1526,50.00,"Credit Card"
+1527,932.00,NetBanking
+1529,541.00,NetBanking
+1531,192.00,"Debit Card"
+1532,844.00,"Credit Card"
+1533,1015.00,"Credit Card"
+1534,1079.00,"Credit Card"
+1535,284.00,UPI
+1536,237.00,UPI
+1538,192.00,"Debit Card"
+1539,247.00,UPI
+1540,1256.00,"Credit Card"
+1541,418.00,UPI
+1542,863.00,"Debit Card"
+1543,1210.00,"Debit Card"
+1544,953.00,NetBanking
+1545,446.00,"Credit Card"
+1546,70.00,"Credit Card"
+1547,822.00,NetBanking
+1548,844.00,NetBanking
+1549,703.00,"Debit Card"
+1550,674.00,"Credit Card"
+1551,953.00,UPI
+1552,578.00,UPI
+1553,1210.00,"Credit Card"
+1554,320.00,UPI
+1555,571.00,NetBanking
+1556,279.00,NetBanking
+1557,775.00,"Debit Card"
+1558,937.00,UPI
+1559,853.00,UPI
+1564,219.00,"Debit Card"
+1565,529.00,NetBanking
+1566,226.00,UPI
+1567,428.00,NetBanking
+1568,485.00,UPI
+1569,721.00,UPI
+1570,928.00,"Debit Card"
+1571,775.00,NetBanking
+1572,635.00,NetBanking
+1573,601.00,UPI
+1575,623.00,"Credit Card"
+1577,623.00,"Debit Card"
+1578,644.00,UPI
+1579,1267.00,UPI
+1580,705.00,NetBanking
+1581,150.00,NetBanking
+1582,928.00,"Debit Card"
+1583,50.00,"Credit Card"
+1584,700.00,UPI
+1585,428.00,"Debit Card"
+1586,326.00,UPI
+1587,58.00,"Debit Card"
+1588,783.00,"Debit Card"
+1589,210.00,"Debit Card"
+1590,1015.00,NetBanking
+1591,466.00,"Credit Card"
+1592,601.00,NetBanking
+1593,441.00,"Credit Card"
+1594,446.00,"Credit Card"
+1595,367.00,"Credit Card"
+1596,510.00,"Credit Card"
+1597,334.00,UPI
+1598,822.00,"Debit Card"
+1599,711.00,"Debit Card"
+1600,870.00,UPI
+1601,932.00,NetBanking
+1602,654.00,"Credit Card"
+1603,510.00,UPI
+1604,601.00,UPI
+1605,144.00,NetBanking
+1606,962.00,NetBanking
+1608,775.00,UPI
+1609,355.00,NetBanking
+1610,547.00,"Credit Card"
+1611,50.00,"Debit Card"
+1613,316.00,"Debit Card"
+1614,330.00,"Debit Card"
+1615,909.00,"Credit Card"
+1616,512.00,"Credit Card"
+1617,58.00,NetBanking
+1620,612.00,UPI
+1621,975.00,"Debit Card"
+1623,520.00,UPI
+1625,654.00,"Credit Card"
+1626,1056.00,"Debit Card"
+1627,247.00,"Credit Card"
+1628,844.00,"Credit Card"
+1629,775.00,"Credit Card"
+1630,299.00,UPI
+1631,1015.00,"Credit Card"
+1632,1056.00,"Debit Card"
+1633,1210.00,"Debit Card"
+1634,822.00,"Credit Card"
+1635,82.00,"Credit Card"
+1636,962.00,UPI
+1637,470.00,NetBanking
+1638,396.00,"Credit Card"
+1639,445.00,NetBanking
+1640,326.00,UPI
+1641,192.00,NetBanking
+1642,413.00,"Credit Card"
+1643,863.00,UPI
+1644,413.00,UPI
+1645,529.00,NetBanking
+1646,199.00,UPI
+1647,934.00,"Debit Card"
+1649,446.00,NetBanking
+1650,62.00,NetBanking
+1651,760.00,"Credit Card"
+1652,330.00,NetBanking
+1653,1210.00,"Credit Card"
+1654,532.00,NetBanking
+1655,58.00,UPI
+1656,805.00,UPI
+1657,760.00,"Credit Card"
+1658,721.00,UPI
+1659,50.00,NetBanking
+1660,1056.00,NetBanking
+1661,299.00,"Credit Card"
+1662,1281.00,NetBanking
+1663,118.00,UPI
+1664,247.00,NetBanking
+1665,884.00,"Credit Card"
+1666,532.00,NetBanking
+1667,367.00,"Credit Card"
+1668,480.00,NetBanking
+1669,411.00,"Credit Card"
+1670,320.00,NetBanking
+1672,415.00,"Credit Card"
+1673,822.00,"Credit Card"
+1674,58.00,"Debit Card"
+1677,50.00,NetBanking
+1678,822.00,UPI
+1679,623.00,"Debit Card"
+1680,62.00,NetBanking
+1681,237.00,"Credit Card"
+1682,934.00,UPI
+1683,367.00,UPI
+1685,532.00,"Debit Card"
+1686,314.00,NetBanking
+1687,571.00,"Credit Card"
+1689,265.00,"Debit Card"
+1690,1210.00,"Credit Card"
+1691,870.00,NetBanking
+1692,571.00,"Credit Card"
+1693,510.00,"Debit Card"
+1694,975.00,NetBanking
+1695,309.00,UPI
+1696,239.00,NetBanking
+1697,648.00,"Credit Card"
+1699,446.00,"Credit Card"
+1700,309.00,NetBanking
+1701,648.00,"Debit Card"
+1702,937.00,NetBanking
+1703,316.00,UPI
+1704,50.00,"Debit Card"
+1705,805.00,"Credit Card"
+1706,705.00,UPI
+1707,1326.00,UPI
+1708,241.00,NetBanking
+1709,326.00,"Credit Card"
+1710,446.00,"Debit Card"
+1711,509.00,"Credit Card"
+1712,623.00,"Debit Card"
+1713,1210.00,NetBanking
+1714,532.00,NetBanking
+1715,485.00,"Debit Card"
+1716,721.00,"Credit Card"
+1717,74.00,NetBanking
+1718,210.00,"Debit Card"
+1721,539.00,UPI
+1722,74.00,"Debit Card"
+1723,536.00,"Debit Card"
+1724,775.00,UPI
+1725,386.00,NetBanking
+1726,705.00,"Debit Card"
+1727,265.00,NetBanking
+1728,541.00,"Credit Card"
+1729,423.00,"Credit Card"
+1730,570.00,"Debit Card"
+1731,623.00,"Debit Card"
+1732,527.00,"Debit Card"
+1735,62.00,NetBanking
+1736,610.00,UPI
+1737,510.00,NetBanking
+1738,62.00,"Credit Card"
+1739,853.00,UPI
+1740,601.00,"Credit Card"
+1741,937.00,NetBanking
+1742,623.00,NetBanking
+1743,700.00,"Credit Card"
+1744,805.00,UPI
+1745,760.00,NetBanking
+1747,50.00,"Credit Card"
+1748,334.00,"Credit Card"
+1749,564.00,"Credit Card"
+1751,1058.00,UPI
+1752,82.00,NetBanking
+1753,521.00,NetBanking
+1755,446.00,"Debit Card"
+1756,698.00,"Credit Card"
+1757,174.00,"Credit Card"
+1758,247.00,"Debit Card"
+1760,707.00,"Debit Card"
+1761,370.00,"Debit Card"
+1762,320.00,NetBanking
+1763,572.00,UPI
+1764,50.00,UPI
+1765,588.00,NetBanking
+1766,445.00,"Credit Card"
+1767,441.00,"Debit Card"
+1768,70.00,NetBanking
+1769,708.00,"Credit Card"
+1770,413.00,"Credit Card"
+1771,1056.00,"Debit Card"
+1772,674.00,"Debit Card"
+1773,241.00,"Debit Card"
+1774,844.00,UPI
+1775,532.00,"Debit Card"
+1776,265.00,NetBanking
+1777,601.00,"Credit Card"
+1778,73.00,UPI
+1779,884.00,"Credit Card"
+1780,570.00,"Credit Card"
+1782,708.00,UPI
+1783,466.00,"Credit Card"
+1784,527.00,UPI
+1785,367.00,"Debit Card"
+1786,391.00,UPI
+1787,1210.00,"Debit Card"
+1788,446.00,NetBanking
+1789,441.00,"Debit Card"
+1790,1039.00,"Debit Card"
+1791,292.00,NetBanking
+1792,962.00,NetBanking
+1794,660.00,"Debit Card"
+1795,489.00,"Credit Card"
+1797,576.00,NetBanking
+1798,521.00,"Credit Card"
+1799,309.00,"Debit Card"
+1801,822.00,"Debit Card"
+1802,210.00,"Credit Card"
+1803,601.00,NetBanking
+1804,674.00,"Credit Card"
+1806,822.00,"Debit Card"
+1807,174.00,NetBanking
+1808,588.00,UPI
+1809,512.00,"Debit Card"
+1810,701.00,UPI
+1811,50.00,NetBanking
+1812,1056.00,"Credit Card"
+1813,1281.00,NetBanking
+1815,863.00,UPI
+1816,564.00,NetBanking
+1817,50.00,"Credit Card"
+1818,928.00,"Debit Card"
+1820,570.00,NetBanking
+1821,446.00,NetBanking
+1822,123.00,"Debit Card"
+1825,942.00,NetBanking
+1826,527.00,"Debit Card"
+1827,1267.00,"Debit Card"
+1828,278.00,UPI
+1829,446.00,NetBanking
+1830,299.00,"Credit Card"
+1831,674.00,NetBanking
+1832,292.00,"Credit Card"
+1833,326.00,NetBanking
+1834,941.00,"Credit Card"
+1835,70.00,"Credit Card"
+1836,415.00,"Debit Card"
+1837,144.00,"Credit Card"
+1838,571.00,UPI
+1841,1256.00,UPI
+1842,386.00,NetBanking
+1843,172.00,UPI
+1844,763.00,UPI
+1845,445.00,UPI
+1846,531.00,UPI
+1848,449.00,NetBanking
+1849,428.00,NetBanking
+1850,928.00,"Debit Card"
+1851,316.00,NetBanking
+1852,547.00,UPI
+1853,610.00,"Credit Card"
+1854,654.00,NetBanking
+1855,937.00,UPI
+1856,415.00,"Credit Card"
+1857,571.00,UPI
+1858,494.00,UPI
+1859,578.00,UPI
+1860,578.00,UPI
+1861,292.00,"Debit Card"
+1862,478.00,UPI
+1863,494.00,UPI
+1865,612.00,"Debit Card"
+1866,644.00,UPI
+1867,654.00,UPI
+1868,1326.00,"Debit Card"
+1869,192.00,UPI
+1873,428.00,NetBanking
+1875,1210.00,"Debit Card"
+1876,1267.00,UPI
+1877,853.00,"Debit Card"
+1878,224.00,UPI
+1879,529.00,UPI
+1880,445.00,"Debit Card"
+1881,413.00,NetBanking
+1882,50.00,"Debit Card"
+1883,395.00,"Credit Card"
+1884,508.00,UPI
+1885,925.00,"Debit Card"
+1886,265.00,"Debit Card"
+1887,256.00,UPI
+1888,708.00,"Debit Card"
+1890,527.00,UPI
+1892,1460.00,NetBanking
+1893,284.00,NetBanking
+1894,62.00,UPI
+1895,541.00,NetBanking
+1898,284.00,UPI
+1899,571.00,"Credit Card"
+1900,489.00,UPI
+1901,863.00,"Credit Card"
+1902,480.00,NetBanking
+1903,210.00,NetBanking
+1904,284.00,"Credit Card"
+1905,612.00,"Credit Card"
+1906,278.00,"Debit Card"
+1907,304.00,UPI
+1908,1079.00,NetBanking
+1909,1015.00,NetBanking
+1910,396.00,UPI
+1911,822.00,NetBanking
+1912,118.00,"Debit Card"
+1913,480.00,UPI
+1914,599.00,"Credit Card"
+1915,395.00,NetBanking
+1916,123.00,NetBanking
+1917,355.00,"Credit Card"
+1918,441.00,NetBanking
+1919,648.00,NetBanking
+1920,278.00,NetBanking
+1921,441.00,UPI
+1922,70.00,"Credit Card"
+1923,626.00,"Debit Card"
+1924,70.00,"Debit Card"
+1925,73.00,"Credit Card"
+1926,50.00,UPI
+1927,367.00,"Credit Card"
+1928,1056.00,"Credit Card"
+1929,501.00,"Credit Card"
+1930,588.00,UPI
+1932,711.00,UPI
+1933,501.00,"Debit Card"
+1934,304.00,"Credit Card"
+1935,962.00,NetBanking
+1936,571.00,"Debit Card"
+1937,648.00,"Credit Card"
+1938,489.00,"Credit Card"
+1939,150.00,"Credit Card"
+1941,50.00,UPI
+1942,571.00,UPI
+1943,485.00,UPI
+1944,1210.00,NetBanking
+1946,805.00,"Debit Card"
+1947,50.00,"Debit Card"
+1948,880.00,UPI
+1949,489.00,UPI
+1950,82.00,"Debit Card"
+1951,1039.00,"Debit Card"
+1952,50.00,"Credit Card"
+1953,415.00,UPI
+1954,320.00,"Debit Card"
+1955,510.00,"Debit Card"
+1956,320.00,NetBanking
+1957,822.00,"Debit Card"
+1958,237.00,"Credit Card"
+1959,571.00,"Debit Card"
+1962,92.00,NetBanking
+1963,328.00,"Credit Card"
+1964,644.00,"Credit Card"
+1965,239.00,"Debit Card"
+1967,247.00,"Debit Card"
+1968,50.00,"Debit Card"
+1969,316.00,NetBanking
+1971,370.00,"Debit Card"
+1972,674.00,"Debit Card"
+1973,1079.00,UPI
+1974,480.00,"Credit Card"
+1975,428.00,"Credit Card"
+1976,477.00,"Debit Card"
+1977,571.00,UPI
+1978,572.00,NetBanking
+1979,822.00,NetBanking
+1980,698.00,NetBanking
+1981,1101.00,"Debit Card"
+1982,70.00,"Debit Card"
+1983,654.00,"Credit Card"
+1984,610.00,"Credit Card"
+1985,174.00,NetBanking
+1986,50.00,NetBanking
+1987,449.00,NetBanking
+1988,512.00,"Debit Card"
+1989,805.00,NetBanking
+1990,292.00,NetBanking
+1991,371.00,"Credit Card"
+1992,355.00,UPI
+1993,326.00,"Debit Card"
+1994,241.00,NetBanking
+1996,330.00,UPI
+1998,1326.00,"Credit Card"
+1999,466.00,NetBanking
+2000,123.00,NetBanking
